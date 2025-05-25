@@ -1,8 +1,3 @@
-# VP_Ellipsis.txt
-# (C) 2023 by Muhammad S. Abdo; <Mabdo@iu.edu>
-# language: ara
-# Notes:
-
 أنا سأخذ الأبيض وخالد ___ الأسود
 ----
 أنا سآخذ الأبيض وخالد سيأخذ الأسود
