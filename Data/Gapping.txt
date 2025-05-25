@@ -1,8 +1,3 @@
-# gapping.txt
-# (C) 2023 by Muhammad S. Abdo; <Mabdo@iu.edu>
-# language: ara
-# Notes:
-
 أنا أحب المسلسلات وهي ___ الأفلام
 ----
 أنا أحب المسلسلات وهي تحب الأفلام
